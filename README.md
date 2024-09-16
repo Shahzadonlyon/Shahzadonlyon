@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shahzad
-- 👀 I’m interested in web Development, Mobile App Development, and Open-Source Projects.
+- 👋 Hi, I’m @Shahzadonlyon 
+- 👀 I’m interested in Web Development, Mobile App Development, and Open-Source Projects.
 - 🌱 I’m currently learning Full-Stack Development, Specifically with JavaScript, PHP, and MySQL.
 - 💞️ I’m looking to Collaborate on Innovative Projects that Involve Web Technologies, APIs, and Mobile Applications.
 - 📫 How to reach me via shahzad@gmail.com
