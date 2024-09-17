@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Mobile App Development, and Open-Source Projects.
 - 🌱 I’m currently learning Full-Stack Development, Specifically with JavaScript, PHP, and MySQL.
 - 💞️ I’m looking to Collaborate on Innovative Projects that Involve Web Technologies, APIs, and Mobile Applications.
-- 📫 How to reach me via shahzad@gmail.com
+- 📫 How to reach me via shahzadonlyon@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I Love Solving Complex Coding Problems and Also Enjoy Outdoor Adventures!
 
